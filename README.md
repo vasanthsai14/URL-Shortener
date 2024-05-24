@@ -1,8 +1,5 @@
 # URL Shortener
 
-![MongoDB Screenshot](MongoDB-Screenshot.png)
-![Output Screenshot](Output-Screenshot.png)
-
 This project is a URL shortener built using Node.js, Express, and MongoDB. It allows users to shorten long URLs into more manageable, shorter ones.
 
 ## Features
@@ -17,6 +14,10 @@ This project is a URL shortener built using Node.js, Express, and MongoDB. It al
 - Express
 - MongoDB
 - HTML/CSS/JavaScript
+  
+
+![MongoDB Screenshot](MongoDB-Screenshot.png)
+![Output Screenshot](Output-Screenshot.png)
 
 ## Prerequisites
 
